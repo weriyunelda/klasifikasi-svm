@@ -24,8 +24,3 @@ Model berhasil melakukan klasifikasi dengan akurasi sekitar **91%**.
 - scikit-learn
 - matplotlib
 - seaborn
-
-## ▶️ Cara Menjalankan
-1. Install library:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
